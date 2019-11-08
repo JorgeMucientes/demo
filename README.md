@@ -1,7 +1,9 @@
 ## Try it
 
-[https://my-json-server.typicode.com/typicode/demo](https://my-json-server.typicode.com/typicode/demo)
+[Check server setup](https://my-json-server.typicode.com/JorgeMucientes/demo)
 
-## Use your own data
+Resquest sessions [sessions from sessionize](https://my-json-server.typicode.com/JorgeMucientes/demo/sessions) just use the following url [https://my-json-server.typicode.com/JorgeMucientes/demo/sessions](https://my-json-server.typicode.com/JorgeMucientes/demo/sessions)
 
-Fork it and change `db.json` values or create a repo with a `db.json` file.
+## How to add more data
+
+Change `db.json` 
