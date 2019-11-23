@@ -1,141 +1,137 @@
 {
-   "Sessions":[
+   "sessions":[
       {
-         "sessions":[
-            {
-               "id":"155856",
-               "title":"Android 10: 10 años de android?",
-               "description":"Retrospectiva de Android como a ido cambiando el framework, los desarrolladores, las necesidades, el API, la forma de trabajar. Para los más veteranos sera un repaso desde como estábamos y lo que hemos cambiado. Para los más jóvenes ver el porque de algunas decisiones y que motivaba el cambio.",
-               "startsAt":"2019-12-20T09:15:00",
-               "endsAt":"2019-12-20T10:00:00",
-               "isServiceSession":false,
-               "isPlenumSession":true,
-               "speakers":[
-                  "651b4e09-bb4c-4b5a-b2a6-09903e03022b"
-               ],
-               "categoryItems":[
+         "id":"155856",
+         "title":"Android 10: 10 años de android?",
+         "description":"Retrospectiva de Android como a ido cambiando el framework, los desarrolladores, las necesidades, el API, la forma de trabajar. Para los más veteranos sera un repaso desde como estábamos y lo que hemos cambiado. Para los más jóvenes ver el porque de algunas decisiones y que motivaba el cambio.",
+         "startsAt":"2019-12-20T09:15:00",
+         "endsAt":"2019-12-20T10:00:00",
+         "isServiceSession":false,
+         "isPlenumSession":true,
+         "speakers":[
+            "651b4e09-bb4c-4b5a-b2a6-09903e03022b"
+         ],
+         "categoryItems":[
 
-               ],
-               "questionAnswers":[
+         ],
+         "questionAnswers":[
 
-               ],
-               "roomId":10509
-            },
-            {
-               "id":"149285",
-               "title":"The Hitchhikers Guide Through Kotlin Multiplatform",
-               "description":"Since the early days of mobile that we keep seeing new frameworks being designed to overcome one of the biggest challenges:\r\n* How can I develop for both Android and iOS?\r\n\r\nAlthough it's initial promises, when we talk about performance, maintainability or even customization we keep discarding these solutions and we always choose native.\r\n\r\n\r\nFast forward to the present, and now we have two new languages: Android is Kotlin first and iOS, Swift. And if you put them side by side you can see a lot of similarities between both what will ease switching between one to the other if you have to develop for both platforms.\r\n\r\nBut what I told that you could just develop in Kotlin and run it seamlessly on all devices?\r\n\r\nHere comes Kotlin Multiplatform!",
-               "startsAt":"2019-12-20T10:00:00",
-               "endsAt":"2019-12-20T10:45:00",
-               "isServiceSession":false,
-               "isPlenumSession":false,
-               "speakers":[
-                  "2bc1e95f-1243-4ad0-8a11-75541fee10e0"
-               ],
-               "categoryItems":[
+         ],
+         "roomId":10509
+      },
+      {
+         "id":"149285",
+         "title":"The Hitchhikers Guide Through Kotlin Multiplatform",
+         "description":"Since the early days of mobile that we keep seeing new frameworks being designed to overcome one of the biggest challenges:\r\n* How can I develop for both Android and iOS?\r\n\r\nAlthough it's initial promises, when we talk about performance, maintainability or even customization we keep discarding these solutions and we always choose native.\r\n\r\n\r\nFast forward to the present, and now we have two new languages: Android is Kotlin first and iOS, Swift. And if you put them side by side you can see a lot of similarities between both what will ease switching between one to the other if you have to develop for both platforms.\r\n\r\nBut what I told that you could just develop in Kotlin and run it seamlessly on all devices?\r\n\r\nHere comes Kotlin Multiplatform!",
+         "startsAt":"2019-12-20T10:00:00",
+         "endsAt":"2019-12-20T10:45:00",
+         "isServiceSession":false,
+         "isPlenumSession":false,
+         "speakers":[
+            "2bc1e95f-1243-4ad0-8a11-75541fee10e0"
+         ],
+         "categoryItems":[
 
-               ],
-               "questionAnswers":[
+         ],
+         "questionAnswers":[
 
-               ],
-               "roomId":10509
-            },
-            {
-               "id":"158506",
-               "title":"Gradle (Performance and Kotlin DSL)",
-               "description":"We often use Gradle, Android's build system, without utilising it to its fullest potential. However, learning to get the most out of Gradle can impact our performance as Android Developers.\r\n\r\nThe talk will cover two areas:\r\n\r\nA) Tips to increase the speed of an Android/Gradle build.\r\n\r\nB) Discuss Gradle Gradle Kotlin DSL and the necessary steps to migrate from Groovy DSL.",
-               "startsAt":"2019-12-20T10:00:00",
-               "endsAt":"2019-12-20T10:45:00",
-               "isServiceSession":false,
-               "isPlenumSession":false,
-               "speakers":[
-                  "39690989-d589-44d8-a450-686882d39057"
-               ],
-               "categoryItems":[
+         ],
+         "roomId":10509
+      },
+      {
+         "id":"158506",
+         "title":"Gradle (Performance and Kotlin DSL)",
+         "description":"We often use Gradle, Android's build system, without utilising it to its fullest potential. However, learning to get the most out of Gradle can impact our performance as Android Developers.\r\n\r\nThe talk will cover two areas:\r\n\r\nA) Tips to increase the speed of an Android/Gradle build.\r\n\r\nB) Discuss Gradle Gradle Kotlin DSL and the necessary steps to migrate from Groovy DSL.",
+         "startsAt":"2019-12-20T10:00:00",
+         "endsAt":"2019-12-20T10:45:00",
+         "isServiceSession":false,
+         "isPlenumSession":false,
+         "speakers":[
+            "39690989-d589-44d8-a450-686882d39057"
+         ],
+         "categoryItems":[
 
-               ],
-               "questionAnswers":[
+         ],
+         "questionAnswers":[
 
-               ],
-               "roomId":10510
-            },
-            {
-               "id":"153724",
-               "title":"7+1 tips about [Android] App Modularization",
-               "description":"Nowadays, App modularization is a technique largely adopted that gives lots of advantages. But how to approach it?\r\nThis talk will not focus on the pro and cons of modularization but instead on the approach and the process to achieve it. In particular, I want to share the approach that I followed to modularize an existing application and a new one. I want also to share the failures and all the struggles that came in my head while approaching the process.",
-               "startsAt":"2019-12-20T10:45:00",
-               "endsAt":"2019-12-20T11:30:00",
-               "isServiceSession":false,
-               "isPlenumSession":false,
-               "speakers":[
-                  "aeddc24f-0e47-4934-ad76-2de7a9dc9fac"
-               ],
-               "categoryItems":[
+         ],
+         "roomId":10510
+      },
+      {
+         "id":"153724",
+         "title":"7+1 tips about [Android] App Modularization",
+         "description":"Nowadays, App modularization is a technique largely adopted that gives lots of advantages. But how to approach it?\r\nThis talk will not focus on the pro and cons of modularization but instead on the approach and the process to achieve it. In particular, I want to share the approach that I followed to modularize an existing application and a new one. I want also to share the failures and all the struggles that came in my head while approaching the process.",
+         "startsAt":"2019-12-20T10:45:00",
+         "endsAt":"2019-12-20T11:30:00",
+         "isServiceSession":false,
+         "isPlenumSession":false,
+         "speakers":[
+            "aeddc24f-0e47-4934-ad76-2de7a9dc9fac"
+         ],
+         "categoryItems":[
 
-               ],
-               "questionAnswers":[
+         ],
+         "questionAnswers":[
 
-               ],
-               "roomId":10510
-            },
-            {
-               "id":"157487",
-               "title":"Chief Technology Officer or Chief Culture Officer?",
-               "description":"Teams are constantly changing as they try to adjust to new context and challenges. We as leaders have to follow the team and adapt to their new reality, one thing doesn't change though: the goal to achieve self-organising teams so we can get out of their way and let the teams thrive. Team culture is key to self-organising teams but, what is culture? What is it made of? How can we grow it and influence it? I'll try to answer some of these questions and share my learnings through my path to become a chief culture officer at Mercadona Tech.",
-               "startsAt":"2019-12-20T10:45:00",
-               "endsAt":"2019-12-20T11:30:00",
-               "isServiceSession":false,
-               "isPlenumSession":false,
-               "speakers":[
-                  "2affbcfb-0657-42cc-b5a2-da70aa44133c"
-               ],
-               "categoryItems":[
+         ],
+         "roomId":10510
+      },
+      {
+         "id":"157487",
+         "title":"Chief Technology Officer or Chief Culture Officer?",
+         "description":"Teams are constantly changing as they try to adjust to new context and challenges. We as leaders have to follow the team and adapt to their new reality, one thing doesn't change though: the goal to achieve self-organising teams so we can get out of their way and let the teams thrive. Team culture is key to self-organising teams but, what is culture? What is it made of? How can we grow it and influence it? I'll try to answer some of these questions and share my learnings through my path to become a chief culture officer at Mercadona Tech.",
+         "startsAt":"2019-12-20T10:45:00",
+         "endsAt":"2019-12-20T11:30:00",
+         "isServiceSession":false,
+         "isPlenumSession":false,
+         "speakers":[
+            "2affbcfb-0657-42cc-b5a2-da70aa44133c"
+         ],
+         "categoryItems":[
 
-               ],
-               "questionAnswers":[
+         ],
+         "questionAnswers":[
 
-               ],
-               "roomId":10509
-            },
-            {
-               "id":"149227",
-               "title":"Pushing dynamic features your users want, as quick as they want them",
-               "description":"Many successful Android apps offer multiple features and components that work together to provide a great user experience. Although we want all prospective users to have the ability to install our app, this may not be possible due to limitations in storage and network connection, especially in emerging markets. What if we can deliver new features selectively post-installation, reducing the initial app size, and allowing us to target a wider audience? How did Kotlin enhance our reliability and quick prototyping before shipping a brand new dynamic feature? Now that Kotlin is the first language on the Android platform, we certainly know this was the right choice at the time.\r\n\r\nWhat will the audience learn from this talk? The good, the bad and lessons learnt we had along the way when building our first Dynamic Feature at Twitter for Android. Technical Design decisions we made, some architecture and implementation details (code samples in Kotlin language) and thinking in behind them. What is a dynamic feature? Why did we choose to make it? How did we make it? What difficulties did we have? What are the next steps?",
-               "startsAt":"2019-12-20T12:00:00",
-               "endsAt":"2019-12-20T12:45:00",
-               "isServiceSession":false,
-               "isPlenumSession":false,
-               "speakers":[
-                  "75a99392-2d32-4632-9d9b-a70bb700365c"
-               ],
-               "categoryItems":[
+         ],
+         "roomId":10509
+      },
+      {
+         "id":"149227",
+         "title":"Pushing dynamic features your users want, as quick as they want them",
+         "description":"Many successful Android apps offer multiple features and components that work together to provide a great user experience. Although we want all prospective users to have the ability to install our app, this may not be possible due to limitations in storage and network connection, especially in emerging markets. What if we can deliver new features selectively post-installation, reducing the initial app size, and allowing us to target a wider audience? How did Kotlin enhance our reliability and quick prototyping before shipping a brand new dynamic feature? Now that Kotlin is the first language on the Android platform, we certainly know this was the right choice at the time.\r\n\r\nWhat will the audience learn from this talk? The good, the bad and lessons learnt we had along the way when building our first Dynamic Feature at Twitter for Android. Technical Design decisions we made, some architecture and implementation details (code samples in Kotlin language) and thinking in behind them. What is a dynamic feature? Why did we choose to make it? How did we make it? What difficulties did we have? What are the next steps?",
+         "startsAt":"2019-12-20T12:00:00",
+         "endsAt":"2019-12-20T12:45:00",
+         "isServiceSession":false,
+         "isPlenumSession":false,
+         "speakers":[
+            "75a99392-2d32-4632-9d9b-a70bb700365c"
+         ],
+         "categoryItems":[
 
-               ],
-               "questionAnswers":[
+         ],
+         "questionAnswers":[
 
-               ],
-               "roomId":10509
-            },
-            {
-               "id":"156384",
-               "title":"Lessons learned after successfully using Flux architectures on Android in the latest years",
-               "description":"When Facebook proposed Flux ideas years ago, the world of web development changed forever. \r\nHowever, in the mobile apps universe we stayed immutable (which in this case is not a really good thing), and well-established architectures like CLEAN or MVVM remained as the default ones to build new apps.\r\nHowever, in the Android development team at BQ we decided to move on from these old friends to a new promising but unknown one: Flux.\r\nThe aim of this talk is to share the lessons learned after more than 3 years working with our own implementation of Flux architecture called Mini, which right now can be found as open-source projects for both Android (https://github.com/bq/mini-kotlin) and iOS (https://github.com/bq/mini-swift).\r\nIn this talk we will cover not only the principles behind this architecture, how it has evolved and how we use it, but also the benefits we have achieved by using them in several Android BQ projects related to camera, IoT, 3D printing and back-end based products.",
-               "startsAt":"2019-12-20T12:00:00",
-               "endsAt":"2019-12-20T12:45:00",
-               "isServiceSession":false,
-               "isPlenumSession":false,
-               "speakers":[
-                  "7a346015-e37c-4218-896b-88d26dc82d9a"
-               ],
-               "categoryItems":[
+         ],
+         "roomId":10509
+      },
+      {
+         "id":"156384",
+         "title":"Lessons learned after successfully using Flux architectures on Android in the latest years",
+         "description":"When Facebook proposed Flux ideas years ago, the world of web development changed forever. \r\nHowever, in the mobile apps universe we stayed immutable (which in this case is not a really good thing), and well-established architectures like CLEAN or MVVM remained as the default ones to build new apps.\r\nHowever, in the Android development team at BQ we decided to move on from these old friends to a new promising but unknown one: Flux.\r\nThe aim of this talk is to share the lessons learned after more than 3 years working with our own implementation of Flux architecture called Mini, which right now can be found as open-source projects for both Android (https://github.com/bq/mini-kotlin) and iOS (https://github.com/bq/mini-swift).\r\nIn this talk we will cover not only the principles behind this architecture, how it has evolved and how we use it, but also the benefits we have achieved by using them in several Android BQ projects related to camera, IoT, 3D printing and back-end based products.",
+         "startsAt":"2019-12-20T12:00:00",
+         "endsAt":"2019-12-20T12:45:00",
+         "isServiceSession":false,
+         "isPlenumSession":false,
+         "speakers":[
+            "7a346015-e37c-4218-896b-88d26dc82d9a"
+         ],
+         "categoryItems":[
 
-               ],
-               "questionAnswers":[
+         ],
+         "questionAnswers":[
 
-               ],
-               "roomId":10510
-            }
-         ]
+         ],
+         "roomId":10510
       }
    ]
 }
