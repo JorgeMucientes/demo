@@ -99,8 +99,8 @@
          "id":"149227",
          "title":"Pushing dynamic features your users want, as quick as they want them",
          "description":"Many successful Android apps offer multiple features and components that work together to provide a great user experience. Although we want all prospective users to have the ability to install our app, this may not be possible due to limitations in storage and network connection, especially in emerging markets. What if we can deliver new features selectively post-installation, reducing the initial app size, and allowing us to target a wider audience? How did Kotlin enhance our reliability and quick prototyping before shipping a brand new dynamic feature? Now that Kotlin is the first language on the Android platform, we certainly know this was the right choice at the time.\r\n\r\nWhat will the audience learn from this talk? The good, the bad and lessons learnt we had along the way when building our first Dynamic Feature at Twitter for Android. Technical Design decisions we made, some architecture and implementation details (code samples in Kotlin language) and thinking in behind them. What is a dynamic feature? Why did we choose to make it? How did we make it? What difficulties did we have? What are the next steps?",
-         "startsAt":"2019-12-20T12:00:00",
-         "endsAt":"2019-12-20T12:45:00",
+         "startsAt":"2019-12-21T12:00:00",
+         "endsAt":"2019-12-21T12:45:00",
          "isServiceSession":false,
          "isPlenumSession":false,
          "speakers":[
@@ -118,8 +118,8 @@
          "id":"156384",
          "title":"Lessons learned after successfully using Flux architectures on Android in the latest years",
          "description":"When Facebook proposed Flux ideas years ago, the world of web development changed forever. \r\nHowever, in the mobile apps universe we stayed immutable (which in this case is not a really good thing), and well-established architectures like CLEAN or MVVM remained as the default ones to build new apps.\r\nHowever, in the Android development team at BQ we decided to move on from these old friends to a new promising but unknown one: Flux.\r\nThe aim of this talk is to share the lessons learned after more than 3 years working with our own implementation of Flux architecture called Mini, which right now can be found as open-source projects for both Android (https://github.com/bq/mini-kotlin) and iOS (https://github.com/bq/mini-swift).\r\nIn this talk we will cover not only the principles behind this architecture, how it has evolved and how we use it, but also the benefits we have achieved by using them in several Android BQ projects related to camera, IoT, 3D printing and back-end based products.",
-         "startsAt":"2019-12-20T12:00:00",
-         "endsAt":"2019-12-20T12:45:00",
+         "startsAt":"2019-12-21T12:00:00",
+         "endsAt":"2019-12-21T12:45:00",
          "isServiceSession":false,
          "isPlenumSession":false,
          "speakers":[
@@ -139,44 +139,6 @@
          "description":"We often use Gradle, Android's build system, without utilising it to its fullest potential. However, learning to get the most out of Gradle can impact our performance as Android Developers.\r\n\r\nThe talk will cover two areas:\r\n\r\nA) Tips to increase the speed of an Android/Gradle build.\r\n\r\nB) Discuss Gradle Gradle Kotlin DSL and the necessary steps to migrate from Groovy DSL.",
          "startsAt":"2019-12-21T10:00:00",
          "endsAt":"2019-12-21T10:45:00",
-         "isServiceSession":false,
-         "isPlenumSession":false,
-         "speakers":[
-            "39690989-d589-44d8-a450-686882d39057"
-         ],
-         "categoryItems":[
-
-         ],
-         "questionAnswers":[
-
-         ],
-         "roomId":10510
-      },
-      {
-         "id":"158506",
-         "title":"Otra charla segundo día de la droidcon",
-         "description":"We often use Gradle, Android's build system, without utilising it to its fullest potential. However, learning to get the most out of Gradle can impact our performance as Android Developers.\r\n\r\nThe talk will cover two areas:\r\n\r\nA) Tips to increase the speed of an Android/Gradle build.\r\n\r\nB) Discuss Gradle Gradle Kotlin DSL and the necessary steps to migrate from Groovy DSL.",
-         "startsAt":"2019-12-21T10:00:00",
-         "endsAt":"2019-12-21T10:45:00",
-         "isServiceSession":false,
-         "isPlenumSession":false,
-         "speakers":[
-            "39690989-d589-44d8-a450-686882d39057"
-         ],
-         "categoryItems":[
-
-         ],
-         "questionAnswers":[
-
-         ],
-         "roomId":10510
-      },
-      {
-         "id":"158506",
-         "title":"Tercera charla segundo día de la droidcon",
-         "description":"We often use Gradle, Android's build system, without utilising it to its fullest potential. However, learning to get the most out of Gradle can impact our performance as Android Developers.\r\n\r\nThe talk will cover two areas:\r\n\r\nA) Tips to increase the speed of an Android/Gradle build.\r\n\r\nB) Discuss Gradle Gradle Kotlin DSL and the necessary steps to migrate from Groovy DSL.",
-         "startsAt":"2019-12-21T12:00:00",
-         "endsAt":"2019-12-21T12:45:00",
          "isServiceSession":false,
          "isPlenumSession":false,
          "speakers":[
