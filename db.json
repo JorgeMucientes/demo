@@ -132,6 +132,63 @@
 
          ],
          "roomId":10510
+      },
+      {
+         "id":"158506",
+         "title":"Charla segundo día de la droidcon",
+         "description":"We often use Gradle, Android's build system, without utilising it to its fullest potential. However, learning to get the most out of Gradle can impact our performance as Android Developers.\r\n\r\nThe talk will cover two areas:\r\n\r\nA) Tips to increase the speed of an Android/Gradle build.\r\n\r\nB) Discuss Gradle Gradle Kotlin DSL and the necessary steps to migrate from Groovy DSL.",
+         "startsAt":"2019-12-21T10:00:00",
+         "endsAt":"2019-12-21T10:45:00",
+         "isServiceSession":false,
+         "isPlenumSession":false,
+         "speakers":[
+            "39690989-d589-44d8-a450-686882d39057"
+         ],
+         "categoryItems":[
+
+         ],
+         "questionAnswers":[
+
+         ],
+         "roomId":10510
+      },
+      {
+         "id":"158506",
+         "title":"Otra charla segundo día de la droidcon",
+         "description":"We often use Gradle, Android's build system, without utilising it to its fullest potential. However, learning to get the most out of Gradle can impact our performance as Android Developers.\r\n\r\nThe talk will cover two areas:\r\n\r\nA) Tips to increase the speed of an Android/Gradle build.\r\n\r\nB) Discuss Gradle Gradle Kotlin DSL and the necessary steps to migrate from Groovy DSL.",
+         "startsAt":"2019-12-21T10:00:00",
+         "endsAt":"2019-12-21T10:45:00",
+         "isServiceSession":false,
+         "isPlenumSession":false,
+         "speakers":[
+            "39690989-d589-44d8-a450-686882d39057"
+         ],
+         "categoryItems":[
+
+         ],
+         "questionAnswers":[
+
+         ],
+         "roomId":10510
+      },
+      {
+         "id":"158506",
+         "title":"Tercera charla segundo día de la droidcon",
+         "description":"We often use Gradle, Android's build system, without utilising it to its fullest potential. However, learning to get the most out of Gradle can impact our performance as Android Developers.\r\n\r\nThe talk will cover two areas:\r\n\r\nA) Tips to increase the speed of an Android/Gradle build.\r\n\r\nB) Discuss Gradle Gradle Kotlin DSL and the necessary steps to migrate from Groovy DSL.",
+         "startsAt":"2019-12-21T12:00:00",
+         "endsAt":"2019-12-21T12:45:00",
+         "isServiceSession":false,
+         "isPlenumSession":false,
+         "speakers":[
+            "39690989-d589-44d8-a450-686882d39057"
+         ],
+         "categoryItems":[
+
+         ],
+         "questionAnswers":[
+
+         ],
+         "roomId":10510
       }
    ]
 }
